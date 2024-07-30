@@ -41,11 +41,11 @@ Button Styles
 }
 
 .button__large {
-    --button-padding:var(--gutter-m) var(--gutter-xs);
+    --button-padding:var(--gutter-m) var(--gutter-s);
 }
 
 .button__small {
-    --button-padding:var(--gutter-xxs) var(--gutter-s);
+    --button-padding:var(--gutter-xxs) var(--gutter-xs);
 }
 
 .button__x-small {
